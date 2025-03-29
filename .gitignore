@@ -1,0 +1,26 @@
+# Lattice Radiant files
+*.html
+**/impl_1/
+!**/source/impl_1/
+*.xml
+.build_status
+.run_manager.ini
+.recovery
+.spread_sheet.ini
+.spreadsheet_view.ini
+*.dir/
+*.log
+*.tcl
+*.ccl
+*.srp
+*.dmp
+._Real_._Math_.vhd
+*.pfl
+.ng_run_manager.ini
+.setting.ini
+
+!vga_introduction/pll_module/component.xml
+!vga_introduction/pll_module/design.xml
+
+!pong/pll_module/component.xml
+!pong/pll_module/design.xml
